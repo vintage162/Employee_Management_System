@@ -7,8 +7,8 @@ This is a full-stack web application for managing employee records. It includes 
 Project Structure
 
 Employee_Management_System/
-├── frontend/ # React.js application
-└── backend/ # Spring Boot application
+1. frontend/ # React.js application
+2. backend/ # Spring Boot application
 
 ## 🚀 Features
 
