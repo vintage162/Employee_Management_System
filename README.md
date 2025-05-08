@@ -54,10 +54,10 @@ npm start
 
 API Endpoints
 
-Method          	Endpoint	                 Description
-GET	         /api/v1/employees           	Get all employees
-POST	       /api/v1/employees           	Add a new employee
-PUT       	 /api/v1/employees/{id}	     Update an employee
-DELETE     	/api/v1/employees/{id}  	    Delete an employee
+
+1] GET	         /api/v1/employees           	Get all employees
+2] POST	       /api/v1/employees           	Add a new employee
+3] PUT       	 /api/v1/employees/{id}	     Update an employee
+4] DELETE     	/api/v1/employees/{id}  	    Delete an employee
 
 
